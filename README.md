@@ -1,0 +1,2 @@
+# minergate
+minergate ububtu vps
